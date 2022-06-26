@@ -1,7 +1,7 @@
 # pps-mini-project-2A
 
 Team 2A(members)-
-Ayush Garg [RA2111003011823]
+Ayush Garg [RA2111003011823] ,
 Mayank Pathak [RA2111003011845]
 
 
